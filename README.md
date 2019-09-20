@@ -1,2 +1,3 @@
 # Hello-GH
-Just Repository
+Hi everyone
+Naz here, 
